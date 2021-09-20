@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "SARAL-AWS-IoT",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"vector": "cpp"
+		}
+	}
+}
